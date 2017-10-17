@@ -1,0 +1,21 @@
+h1 {
+  margin: 25px;
+  text-align: center;
+}
+
+h2 {
+  margin: 20px;
+}
+
+.clickable {
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.definition {
+  display: none;
+}
